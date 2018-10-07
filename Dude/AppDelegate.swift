@@ -8,7 +8,7 @@
 
 import UIKit
 import CoreData
-
+import Photos
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
